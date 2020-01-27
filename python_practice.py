@@ -1,1 +1,1 @@
-print("hello world!")
+print("revise as git trial!")
